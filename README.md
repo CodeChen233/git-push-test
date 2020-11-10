@@ -1,11 +1,16 @@
 * https://blog.csdn.net/u014135752/article/details/79951802
-* 1¡¢ĞÂ½¨Ò»¸öÎÄ¼ş¼Ğ
-* 2¡¢git init ±ä³ÉÒ»¸ö´úÂë²Ö¿â
-* 3¡¢°ÑÏîÄ¿¸´ÖÆ½øÀ´
-# 4¡¢git add . °ÑÏîÄ¿Ìí¼Ó½ø´úÂë²Ö¿â
-* 5¡¢git status ²é¿´×´Ì¬
-# 6¡¢git commit -m "first commit"°Ñ´úÂëÌá½»µ½²Ö¿â²¢Ğ´×¢ÊÍ
-* 7¡¢git remote add origin https://github.com/CodeChen233/git-push-test.git ÒªÉÏ´«µÄµØÖ·£¨ÔÚÕâÖ®Ç°Òª¹ØÁªsshÃÜÔ¿£©Ö»ÒªĞ´Ò»´Î
-# 8¡¢git push -u origin master £¨ĞÂ½¨µÄÔ¶³Ì²Ö¿âÊÇ¿ÕµÄÒª¼Ó-u£©/ git push origin master\
+* 1ã€æ–°å»ºä¸€ä¸ªæ–‡ä»¶å¤¹
+* 2ã€git init å˜æˆä¸€ä¸ªä»£ç ä»“åº“
+* 3ã€æŠŠé¡¹ç›®å¤åˆ¶è¿›æ¥
+# 4ã€git add . æŠŠé¡¹ç›®æ·»åŠ è¿›ä»£ç ä»“åº“
+* 5ã€git status æŸ¥çœ‹çŠ¶æ€
+# 6ã€git commit -m "first commit"æŠŠä»£ç æäº¤åˆ°ä»“åº“å¹¶å†™æ³¨é‡Š
+* 7ã€git remote add origin https://github.com/CodeChen233/git-push-test.git è¦ä¸Šä¼ çš„åœ°å€ï¼ˆåœ¨è¿™ä¹‹å‰è¦å…³è”sshå¯†é’¥ï¼‰åªè¦å†™ä¸€æ¬¡
+# 8ã€git push -u origin master ï¼ˆæ–°å»ºçš„è¿œç¨‹ä»“åº“æ˜¯ç©ºçš„è¦åŠ -uï¼‰/ git push origin master\
 ------------------------------------------------------------------
-# ÏîÄ¿ĞŞ¸Äºógit add ./git commit -m "×¢ÊÍ"/git push origin master
+# é¡¹ç›®ä¿®æ”¹ågit add ./git commit -m "æ³¨é‡Š"/git push origin master
+
+* 9ã€git branch test åˆ›å»ºåˆ†æ”¯test
+* 10ã€git checkout test åˆ‡æ¢åˆ°åˆ†æ”¯test
+* 11ã€git remote add origin https://github.com/CodeChen233/test.gitï¼Œè‹¥æ²¡æœ‰å…³è”åˆ™éœ€è¦å…³è”
+* 12ã€git push origin test å°†åˆ†æ”¯ä¸Šä¼ 
