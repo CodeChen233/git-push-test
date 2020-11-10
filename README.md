@@ -14,3 +14,6 @@
 * 10、git checkout test 切换到分支test
 * 11、git remote add origin https://github.com/CodeChen233/test.git，若没有关联则需要关联
 * 12、git push origin test 将分支上传
+
+* 13、git branch 查看本地仓库所有分支
+* 14、git branch --remote  查看远程仓库所有分支
