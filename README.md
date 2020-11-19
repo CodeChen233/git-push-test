@@ -2,18 +2,18 @@
 * 1、新建一个文件夹
 * 2、git init 变成一个代码仓库
 * 3、把项目复制进来
-# 4、git add . 把项目添加进代码仓库
+* 4、git add . 把项目添加进代码仓库
 * 5、git status 查看状态
-# 6、git commit -m "first commit"把代码提交到仓库并写注释
+* 6、git commit -m "first commit"把代码提交到仓库并写注释
 * 7、git remote add origin https://github.com/CodeChen233/git-push-test.git 要上传的地址（在这之前要关联ssh密钥）只要写一次
-# 8、git push -u origin master （新建的远程仓库是空的要加-u）/ git push origin master\
+* 8、git push -u origin master （新建的远程仓库是空的要加-u）/ git push origin master\
 ------------------------------------------------------------------
-# 项目修改后git add ./git commit -m "注释"/git push origin master
+* 项目修改后git add ./git commit -m "注释"/git push origin master
 
 * 9、git branch test 创建分支test
 * 10、git checkout test 切换到分支test
 * 11、git remote add origin https://github.com/CodeChen233/test.git，若没有关联则需要关联
 * 12、git push origin test 将分支上传
-
 * 13、git branch 查看本地仓库所有分支
 * 14、git branch --remote  查看远程仓库所有分支
+* 15、git clone -b 分支名 仓库地址  克隆分支代码
